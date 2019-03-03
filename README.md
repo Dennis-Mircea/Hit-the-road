@@ -1,13 +1,10 @@
 # Hit-the-road
 
-	In rezolvarea acestei teme am respectat toate cerintele impuse, 
-implemantand structurile de date cerute in mod generic(Hashtable.h si
-ListGraph.h);
 
 	MENTIUNE - functiile de hash, o parte din implementarea hashtable-ului si
 a listei de grafuri sunt luate din laborator;
 
-	In realizarea temei am ales la inceput sa lucrez cu doua hastable-uri
+	Am ales la inceput sa lucrez cu doua hastable-uri
 generice si cu 2 liste de adiacenta:
 	-> towns - hashtable string to class oras(clasa ce retine numarul de ordine
 al fiecarui oras atribuit prin citirea consecutiva de la tastatura, cat si o
